@@ -1,0 +1,2 @@
+rootProject.name='appDatosUsuarios'
+include ':app'
